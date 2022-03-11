@@ -48,7 +48,7 @@ SRS_i &=  (N + b)\rho_i^z - n_i  \\
 ](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A+b++%26%3D+%5Cfrac%7Bn_i%7D%7B%5Crho_i%5Ez%7D+-++N+%2B%5Cepsilon+%5C%5C%0ASRS_i+%26%3D++%28N+%2B+b%29%5Crho_i%5Ez+-+n_i++%5C%5C%0A%5Cpi_i+%26%3D++%5Cfrac%7BSRS_i%7D%7BSRS_1+%2B+SRS_2+%2B+%5Ccdots+%2BSRS_k%7D%0A%5Cend%7Balign%2A%7D%0A)
 
 # 実験結果
-実験結果から提案方策SRSは既存の方策よりもregretが低くなることがわかった。したがって方策SRSは複雑な環境において性能を発揮することがわかった。<br><br>
+実験結果から提案方策SRSは定常環境ではなく、非定常環境において既存の方策よりもregretが低くなることがわかった。したがって方策SRSは複雑な環境において性能を発揮することがわかった。<br><br>
 定常環境の結果
 
 <img width="665" alt="スクリーンショット 2022-03-11 16 34 35" src="https://user-images.githubusercontent.com/95354321/157822848-2eec809d-6698-4d1e-9317-4bdc2471a23f.png">
